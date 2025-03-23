@@ -7,3 +7,6 @@ class LearningGit:
 
     def funcionTerminado(self):
         print("Función terminado")
+
+    def Suma(self, a,b):
+        return a + b
